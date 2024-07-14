@@ -1,0 +1,53 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Pizza",
+        "description": "Delicious cheese pizza",
+        "recipe": "Ingredients: \n- Dough \n- Tomato sauce \n- Mozzarella cheese \n- Basil \n\nInstructions: \n1. Preheat oven to 475°F (245°C). \n2. Spread tomato sauce over the dough. \n3. Sprinkle mozzarella cheese on top. \n4. Add basil leaves. \n5. Bake for 10-15 minutes."
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "description": "Juicy beef burger",
+        "recipe": "Ingredients: \n- Ground beef \n- Buns \n- Lettuce \n- Tomato \n- Cheese \n- Onion \n\nInstructions: \n1. Form ground beef into patties. \n2. Grill or pan-fry patties to desired doneness. \n3. Toast buns. \n4. Assemble burger with lettuce, tomato, cheese, and onion."
+      },
+      {
+        "id": 3,
+        "name": "Sushi",
+        "description": "Fresh sushi rolls",
+        "recipe": "Ingredients: \n- Sushi rice \n- Nori (seaweed) sheets \n- Fresh fish (tuna, salmon) \n- Cucumber \n- Avocado \n\nInstructions: \n1. Cook and season sushi rice. \n2. Place a nori sheet on a bamboo mat. \n3. Spread rice over nori. \n4. Add slices of fish, cucumber, and avocado. \n5. Roll tightly and slice into pieces."
+      },
+      {
+        "id": 4,
+        "name": "Pasta",
+        "description": "Creamy Alfredo pasta",
+        "recipe": "Ingredients: \n- Pasta \n- Heavy cream \n- Parmesan cheese \n- Garlic \n- Butter \n\nInstructions: \n1. Cook pasta according to package instructions. \n2. In a pan, melt butter and sauté garlic. \n3. Add heavy cream and bring to a simmer. \n4. Stir in Parmesan cheese until melted. \n5. Toss pasta in the sauce and serve."
+      },
+      {
+        "id": 5,
+        "name": "Salad",
+        "description": "Healthy green salad",
+        "recipe": "Ingredients: \n- Mixed greens \n- Cherry tomatoes \n- Cucumber \n- Red onion \n- Olive oil \n- Lemon juice \n\nInstructions: \n1. Chop vegetables. \n2. Mix greens, tomatoes, cucumber, and red onion in a bowl. \n3. Drizzle with olive oil and lemon juice. \n4. Toss and serve."
+      },
+      {
+        "id": 6,
+        "name": "Tacos",
+        "description": "Spicy beef tacos",
+        "recipe": "Ingredients: \n- Ground beef \n- Taco seasoning \n- Tortillas \n- Lettuce \n- Tomato \n- Cheese \n- Salsa \n\nInstructions: \n1. Cook ground beef with taco seasoning. \n2. Warm tortillas. \n3. Assemble tacos with beef, lettuce, tomato, cheese, and salsa."
+      },
+      {
+        "id": 7,
+        "name": "Pancakes",
+        "description": "Fluffy pancakes",
+        "recipe": "Ingredients: \n- Flour \n- Sugar \n- Baking powder \n- Milk \n- Eggs \n- Butter \n\nInstructions: \n1. Mix flour, sugar, and baking powder. \n2. Add milk, eggs, and melted butter. \n3. Cook on a griddle until golden brown on both sides."
+      },
+      {
+        "id": 8,
+        "name": "Ice Cream",
+        "description": "Homemade vanilla ice cream",
+        "recipe": "Ingredients: \n- Heavy cream \n- Milk \n- Sugar \n- Vanilla extract \n\nInstructions: \n1. Mix heavy cream, milk, sugar, and vanilla extract. \n2. Pour into an ice cream maker and churn according to manufacturer’s instructions."
+      }
+    ]
+  }
+  
